@@ -460,4 +460,19 @@ input[type="submit"]{
   .sobre .sobre-img{
     margin-top: 20px;
   }
+   .mapa-info .left-info div p{
+    font-size: 12px;
+    margin: 0px;
+    
+  }
+
+  .mapa-info .left-info {
+   padding: 10px;
+    
+  }
+
+  .mapa-info .right-info {
+    width: 100%;
+    padding: 10px;
+  }
 }
