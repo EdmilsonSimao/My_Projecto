@@ -465,7 +465,9 @@ input[type="submit"]{
     margin: 0px;
     
   }
-
+ .mapa-info .left-info div i{
+    font-size: 12px;
+  }
   .mapa-info .left-info {
    padding: 10px;
     
